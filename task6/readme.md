@@ -55,9 +55,10 @@
 ### ☑️ Can one delegate be reused by multiple events?
 - Yes, as long as the delegate signature fits all events, it can be reused.
 
----
 
 <br>
-![Screenshot 2025-04-15 021800(https://github.com/user-attachments/assets/a5e09e88-9145-4d05-92f2-7f2472e0fc62)
+
+
+---
 
 
