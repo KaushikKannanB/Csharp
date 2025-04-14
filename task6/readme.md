@@ -58,29 +58,29 @@
 
 <br>
 
-Delegate is defined 
-    ↓ 
-  (Creates a type for methods to follow)
-    ↓
-Event is declared 
-    ↓ 
- (Event of that type is set up)
-    ↓ 
-Methods are written
-    ↓
-(Methods match the signature of the delegate)
-    ↓ 
-Handlers subscribe to the event
-    ↓
-(Handlers are added to the event using `+=`)
-    ↓ 
-Event is triggered
-    ↓ 
-(Event is invoked when the condition is met)
-    ↓ 
-Handlers execute
-    ↓ 
-(All subscribed handlers run and execute their code)
+Delegate is defined <br>
+    ↓ <br>
+  (Creates a type for methods to follow)<br>
+    ↓<br>
+Event is declared <br>
+    ↓ <br>
+ (Event of that type is set up)<br>
+    ↓ <br>
+Methods are written<br>
+    ↓<br>
+(Methods match the signature of the delegate)<br>
+    ↓ <br>
+Handlers subscribe to the event<br>
+    ↓<br>
+(Handlers are added to the event using `+=`)<br>
+    ↓ <br>
+Event is triggered<br>
+    ↓ <br>
+(Event is invoked when the condition is met)<br>
+    ↓ <br>
+Handlers execute<br>
+    ↓ <br>
+(All subscribed handlers run and execute their code)<br>
 
 ---
 
