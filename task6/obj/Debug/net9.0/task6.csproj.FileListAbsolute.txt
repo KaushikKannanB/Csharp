@@ -1,0 +1,15 @@
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.AssemblyInfoInputs.cache
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.AssemblyInfo.cs
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.csproj.CoreCompileInputs.cache
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.sourcelink.json
+D:\Presidio\Csharp\task6\bin\Debug\net9.0\task6.exe
+D:\Presidio\Csharp\task6\bin\Debug\net9.0\task6.deps.json
+D:\Presidio\Csharp\task6\bin\Debug\net9.0\task6.runtimeconfig.json
+D:\Presidio\Csharp\task6\bin\Debug\net9.0\task6.dll
+D:\Presidio\Csharp\task6\bin\Debug\net9.0\task6.pdb
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.dll
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\refint\task6.dll
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.pdb
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\task6.genruntimeconfig.cache
+D:\Presidio\Csharp\task6\obj\Debug\net9.0\ref\task6.dll
