@@ -1,0 +1,1 @@
+The input file contains 2 lines and total of 5 words in them.
