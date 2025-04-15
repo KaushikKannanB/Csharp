@@ -1,14 +1,3 @@
-Absolutely! Here's your single, well-formatted `README.md` file that you can copy and paste directly into your project:
-
----
-
-```markdown
-# 🧵 C# Asynchronous Programming & Tasks – A Hands-On Guide
-
-This project demonstrates the difference between **synchronous** and **asynchronous** function execution in C# using `async`, `await`, and `Task`.
-
----
-
 ## 📌 Topics Covered
 
 ### 1. What is a `Task<T>`?
