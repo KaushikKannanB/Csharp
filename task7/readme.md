@@ -137,17 +137,18 @@ Console.WriteLine("Time: " + sw.Elapsed.TotalSeconds);
 ### workflow
 Step 1: Define the Async Task Method
 ────────────────────────────────────────────
+```
         async Task<string> GetDataAsync()
         {
             await Task.Delay(2000);
             return "Data from Source";
         }
-
+```
 ⇩
 
 Step 2: Call the Method – This Returns a Task<string>
 ──────────────────────────────────────────────────────
-        Task<string> dataTask = GetDataAsync();
+        ```Task<string> dataTask = GetDataAsync();```
 
     🔹 At this point, the task is created and running asynchronously.
     🔹 The program continues execution without waiting here.
@@ -156,7 +157,7 @@ Step 2: Call the Method – This Returns a Task<string>
 
 Step 3: Await the Task to Get the Result
 ────────────────────────────────────────────
-        string result = await dataTask;
+      ```  string result = await dataTask;```
 
     🔹 The `await` pauses execution of the current method
       until the task is complete.
@@ -166,7 +167,7 @@ Step 3: Await the Task to Get the Result
 
 Step 4: Use the Result
 ────────────────────────────────────────────
-        Console.WriteLine(result);
+     ```   Console.WriteLine(result);```
 
     🔹 Now the result can be printed or processed further.
 
