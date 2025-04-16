@@ -87,7 +87,6 @@
 
 ---
 
-Let me know if you want this added to the README or styled differently!
 
 ## 💻 Final Code Overview
 
