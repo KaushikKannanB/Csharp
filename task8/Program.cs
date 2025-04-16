@@ -10,8 +10,6 @@ public interface EntityRepository<T>
     void add(T item);
     T get(int id);
     List<T>getall();
-    // void update(T item);
-    // void remove(int id);
 }
 public class EntityRepository_implementation<T> : EntityRepository<T> where T:Entity
 {
@@ -79,11 +77,12 @@ class Program
         productRepo.add(p2);
         productRepo.add(p3);
 
+        
         foreach (var student in studentRepo.getall())
         {
             Console.WriteLine($"ID: {student.id}, Name: {student.name}, Dept: {student.dept}");
         }
-
+        // Console.WriteLine(studentRepo.get(2).name);
         foreach (var product in productRepo.getall())
         {
             Console.WriteLine($"ID: {product.id}, Name: {product.pname}, Price: {product.price}");
