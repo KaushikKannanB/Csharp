@@ -57,9 +57,7 @@
   ```
 
 ---
-Sure! Here's the **"Common Doubts Clarified"** section rewritten in a clean, bullet-point format (no table):
 
----
 
 ## 🤔 Common Doubts Clarified
 
