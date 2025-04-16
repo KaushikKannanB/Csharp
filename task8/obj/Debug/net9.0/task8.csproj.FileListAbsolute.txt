@@ -1,0 +1,15 @@
+D:\Presidio\Csharp\task8\bin\Debug\net9.0\task8.exe
+D:\Presidio\Csharp\task8\bin\Debug\net9.0\task8.deps.json
+D:\Presidio\Csharp\task8\bin\Debug\net9.0\task8.runtimeconfig.json
+D:\Presidio\Csharp\task8\bin\Debug\net9.0\task8.dll
+D:\Presidio\Csharp\task8\bin\Debug\net9.0\task8.pdb
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.AssemblyInfoInputs.cache
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.AssemblyInfo.cs
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.csproj.CoreCompileInputs.cache
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.sourcelink.json
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.dll
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\refint\task8.dll
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.pdb
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\task8.genruntimeconfig.cache
+D:\Presidio\Csharp\task8\obj\Debug\net9.0\ref\task8.dll
